@@ -1,0 +1,53 @@
+/**
+ * @name rustoria background theme
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://cdn.discordapp.com/attachments/1027921448758677546/1103607627658842112/jCJWVKTt_4x.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: 100%;
+  --background-image-position: center;
+  --popout-image: url('https://cdn.discordapp.com/attachments/1027921448758677546/1103607627658842112/jCJWVKTt_4x.jpg');
+  --popout-image-blur: 0px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://cdn.discordapp.com/attachments/1027921448758677546/1103607627658842112/jCJWVKTt_4x.jpg');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://www.miniatureartacademy.com/wp-content/uploads/2021/01/Pegatinas-Web_DISCORD.png');
+  --home-button-size: 115%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.7;
+  --left-brightness: 0.7;
+  --middle-brightness: 0.5;
+  --right-brightness: 0.35;
+  --overlay-brightness: 0.2;
+  --gradient-primary: 103,58,183;
+  --gradient-secondary: 63,81,181;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgb(33,33,33,0.7);
+  --gradient-direction: 320deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: gg sans;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
